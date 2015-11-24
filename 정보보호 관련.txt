@@ -1,0 +1,5 @@
+1. 계정이름 libigA이다. Admin 이름이 이거임
+
+cd F:\Anaconda3\Lib\site-packages\PyQt4 (PyQt4 경로)
+
+2. python ./uic/pyuic.py -x Chat_format.ui -o Chat_format.py
